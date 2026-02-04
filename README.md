@@ -8,17 +8,20 @@ on projects involving multivariate time-series data, system monitoring,
 and model evaluation.
 
 ### Core Skills
+
 - Python, SQL
 - Pandas, NumPy, Scikit-learn
 - Machine Learning, Anomaly Detection
 - Data Analysis & Visualisation
 
 ### Featured Projects
+
 - Multivariate Anomaly Detection for Memory Leak Detection
 - CNN Autoencoder for Multivariate Time-Series Data
 - Exploratory Data Analysis on Real-World Datasets
 
 ### Currently
+
 - Actively seeking full-time roles in Data Analytics / Data Science in Ireland
 - 
 ### Academic Projects
