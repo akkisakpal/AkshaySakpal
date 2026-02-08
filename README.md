@@ -24,7 +24,7 @@ and model evaluation.
 
 - Actively seeking full-time roles in Data Analytics / Data Science in Ireland
 - 
-### Academic Projects
+Academic & Practicum Work bachelor's
 
 **Engineering Major Project – Portable Bluetooth Thermal Printer**  
 Developed a portable Bluetooth-enabled thermal printer as part of my engineering major project, focusing on embedded systems and wireless communication.
