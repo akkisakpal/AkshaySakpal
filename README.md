@@ -35,3 +35,14 @@ Implemented an IoT-based scientific calculator using Arduino Uno, involving hard
 **Mini Project – Hotel Website**  
 Built a basic hotel website as a mini project, focusing on front-end development and layout.
 
+Academic & Practicum Work
+
+MSc Practicum – Multivariate Anomaly Detection for Memory Leak Identification  
+Completed my MSc practicum at Dublin City University, focusing on detecting memory leak
+patterns in software systems using multivariate anomaly detection on system-level metrics.
+
+Machine Learning Coursework – Enhancing Product Categorization and Colour Prediction  
+Completed a machine learning assignment focused on improving product categorization
+and colour prediction using supervised learning techniques.
+
+
