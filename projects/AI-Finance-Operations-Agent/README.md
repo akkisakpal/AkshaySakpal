@@ -25,3 +25,8 @@ Run locally:
 Set GEMINI_API_KEY as an environment variable. Never commit API keys.
 
 Author: Akshay Sakpal
+
+
+## CI
+
+GitHub Actions runs a syntax check and dataset tests on project changes.
