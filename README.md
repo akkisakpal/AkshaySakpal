@@ -46,3 +46,9 @@ Completed a machine learning assignment focused on improving product categorizat
 and colour prediction using supervised learning techniques.
 
 
+
+## Featured Project: AI Finance Operations Agent
+
+AI-powered invoice processing with PDF extraction, Gemini field extraction, fallback parsing, validation, duplicate detection, vendor anomaly detection, risk classification and a Streamlit finance dashboard.
+
+Repository: `projects/AI-Finance-Operations-Agent/`
