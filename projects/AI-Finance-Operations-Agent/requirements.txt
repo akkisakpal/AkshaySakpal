@@ -1,0 +1,5 @@
+pandas
+pypdf
+pydantic
+google-genai
+streamlit
