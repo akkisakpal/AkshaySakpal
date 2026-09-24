@@ -1,0 +1,8 @@
+vendor_name,invoice_number,invoice_date,due_date,currency,subtotal,tax,total,status,valid,duplicate,anomaly,risk_level
+ABC Technologies Ltd,INV-2026-1042,2026-09-18,2026-10-18,EUR,2450,563.5,3013.5,Approved,True,False,False,Low
+XYZ Solutions Ltd,INV-2026-2001,2026-09-20,2026-10-20,EUR,1500,345,1845,Approved,True,False,False,Low
+ABC Technologies Ltd,INV-2026-1043,2026-09-21,2026-10-21,EUR,2200,506,2706,Approved,True,False,False,Low
+XYZ Solutions Ltd,INV-2026-2002,2026-09-22,2026-10-22,EUR,6500,1495,7995,Review Required,True,False,True,Medium
+XYZ Solutions Ltd,INV-2026-2001,2026-09-20,2026-10-20,EUR,1500,345,1845,Review Required,True,True,False,High
+DataCloud Ireland Ltd,INV-2026-3011,2026-09-23,2026-10-23,EUR,1500,345,2000,Review Required,False,False,False,High
+DataCloud Ireland Ltd,INV-2026-3012,2026-09-24,2026-10-24,EUR,900,207,1107,Approved,True,False,False,Low
